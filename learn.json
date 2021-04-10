@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://green-bobolink-q09es4l2.ws-us03.gitpod.io",
+        "address": "https://brown-cattle-u8t3oxqr.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.61"
@@ -14,6 +14,9 @@
         "exercisesPath": ".learn/exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset"
@@ -269,7 +272,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 8,
@@ -384,7 +387,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 12,
@@ -414,7 +417,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 13,
@@ -474,7 +477,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 15,
@@ -504,7 +507,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 16,
